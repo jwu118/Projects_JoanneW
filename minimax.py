@@ -1,3 +1,5 @@
+'''CS 4660 Artificial Intelligence - Joanne W. '''
+
 GAME_INCOMPLETE = 0
 GAME_DRAW = 1
 GAME_X = 2
