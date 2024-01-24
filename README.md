@@ -1,9 +1,8 @@
-# Projects_JoanneW
+#CS3220_WebDev_JoanneW
 
-Welcome to my github respository!
+The AdditionPractice servlet is designed to provide users with an addition practice exercise. It generates two random numbers, presents the addition problem to the user, and checks if the user's input is correct. The user can submit their answer through a form, and the servlet responds with feedback on the correctness of the answer.
 
-My name is Joanne Wu and I am currently a rising senior in California State University, Los Angeles. I am majoring in computer science and will graduate around (Spring) May 2024. My career interests include information technology, data science/analyst, project management, software development/engineer, and/or any STEM/Computer Science related job!
+The servlet is designed to be deployed on a servlet container, and in this case, it's integrated with Tomcat v9.0. Tomcat v9.0 is an open-source servlet container developed by the Apache Software Foundation, and it implements the Java Servlet, JavaServer Pages (JSP), and Java Expression Language (EL) technologies.
 
-These are all my assignments and projects I have done as a student in my institution. If you plan to reference from my work, please include credit and the link of reference from my github respository. Thank You!
-
-
+To run/download:
+The @WebServlet("/AdditionPractice") annotation indicates that this servlet will be accessible at the specified URL ("/AdditionPractice").
