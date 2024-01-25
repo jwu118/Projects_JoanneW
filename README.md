@@ -6,4 +6,4 @@ My name is Joanne Wu and I am currently a rising senior in California State Univ
 
 These are some my assignments and projects I have done as a student in my institution. If you plan to reference from my work, please include credit and the link of reference from my github respository. Thank You!
 
-
+For more projects/tasks, visit: https://wp.me/pfhu0A-i
